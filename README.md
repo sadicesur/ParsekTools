@@ -1,4 +1,4 @@
-# PARSKE TOOLS
+# PARSEK TOOLS
 * Handy calculation tools for aerodynamics engineers
 
 * TBD 
