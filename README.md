@@ -3,9 +3,11 @@
 
 * Content:
   * ISA Athmosphere
-** Isentropic Flow Calculations
-** Sutherland Viscosity Model
+  * Isentropic Flow Calculations
+  * Sutherland Viscosity Model
+  * Normal Shock Relations
 
-## Relevant Paper
+## TO-BE ADDED
 
-* TBA
+* Oblique-Shocks
+* 2-D Structured Meshing Tool
