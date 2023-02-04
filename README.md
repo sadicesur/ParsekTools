@@ -2,7 +2,7 @@
 * Handy calculation tools for aerodynamics engineers
 
 * Content:
-** ISA Athmosphere
+* * ISA Athmosphere
 ** Isentropic Flow Calculations
 ** Sutherland Viscosity Model
 
