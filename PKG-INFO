@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: parsektools
+Version: 0.0.6
+Summary: Aerodynamic Calculation Tools
+Author: Sadi Cesur
+Author-email: <cesursadi@gmail.com>
+Keywords: python,athmosphere,air,properties,height,speed of sound,gravity,pressure,temperature,density,sutherland,viscosity,aerodynamics
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
